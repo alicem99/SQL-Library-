@@ -1,1 +1,1 @@
-# SQL-Library-
+# SQL-Library-Mastering the SQL basics
